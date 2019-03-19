@@ -1,0 +1,6 @@
+<html>
+<title>Developer code align<centre><\title>
+<Head>
+<p>A small login page for opening the application</p>
+</head>
+</html>
